@@ -37,7 +37,7 @@ body {
   padding: 0.2rem 1.2rem 0rem;
   margin-bottom: 0.5rem;
   border-radius: 35% 2% 25% 5%/20% 30% 34% 30%;
-  background-color: #52f187;
+  background-color: #80ed99;
   font-size: 1.5rem;
 }
 
@@ -48,7 +48,7 @@ body {
   border-bottom-right-radius: 15px 3px;
   border-bottom-left-radius: 3px 15px;
   border: solid 3px transparent;
-  border-bottom: dashed 3px #45e67a;
+  border-bottom: dashed 3px #80ed99;
   font-family: "Architects Daughter", cursive;
   font-size: 1rem;
   color: hsla(260, 2%, 25%, 0.7);
@@ -68,7 +68,7 @@ button {
   text-decoration: none;
   padding-bottom: 3px;
   border-radius: 5px;
-  background-color: #45e67a;
+  background-color: #80ed99;
 }
 button span {
   background: #f1f5f8;
